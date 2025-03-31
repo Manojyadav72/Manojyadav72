@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/manojyadav00011" target="blank"><img src="https://img.shields.io/twitter/follow/manojyadav00011?logo=twitter&style=for-the-badge" alt="umar_1299" /></a> </p>
 
-- 🌱 I’m currently learning *HTML,CSS,JAVASCRIPT,JAVA*
+- 🌱 I’m currently learning *JAVA,DSA,AI/ML,Android development*
 
 - 💬 Ask me about *JAVA,JAVASCRIPT*
 
