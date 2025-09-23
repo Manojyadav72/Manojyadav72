@@ -53,13 +53,14 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojyadav72&theme=tokyonight" height="160"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manojyadav72&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api?username=manojyadav72&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojyadav72&theme=tokyonight" height="160"/>
-</p>
+
 
 ---
 
