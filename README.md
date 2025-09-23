@@ -3,7 +3,7 @@
 
 <!-- Banner / Professional Illustration -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manojyadav72/Manojyadav72/main/assets/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Manojyadav72/Manojyadav72/main/banner.png" alt="Banner" />
 </p>
 
 <p align="left"> 
