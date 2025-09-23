@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojyadav72&theme=tokyonight" alt="Streak Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojyadav72&theme=tokyonight" height="160"/>
 </p>
 
 ---
